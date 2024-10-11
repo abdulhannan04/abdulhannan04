@@ -1,4 +1,4 @@
-Hello! I'm Imran 👋
+Hello! I'm Abdul Hannan 👋
 
 I’m a passionate Full-Stack Developer focused on delivering high-performance, scalable solutions. My expertise spans across backend development with PHP/Laravel and Python/Django, as well as frontend solutions using React and Vue.js. I also integrate AI-powered features into applications to push the boundaries of what’s possible.
 
